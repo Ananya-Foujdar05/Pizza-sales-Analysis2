@@ -48,7 +48,15 @@ Q13: The top 3 most ordered pizza type based on revenue for each pizza category
 
 
 ## Insight:
-+ 
++ Since large pizzas are the most ordered, consider offering deals and combos to encourage more purchases.
++ Considering the success of the Thai Chicken and Barbecue Chicken pizzas, explore adding new variations or seasonal specialties within the chicken category.
++ Leverage the popularity of large pizzas by suggesting upsells, such as extra toppings, side dishes, or beverages.
++ Actively seek customer feedback on the Greek Pizza XXL size and other premium items to understand their appeal and areas for improvement.
+
+
+
+
+
 
 
 
