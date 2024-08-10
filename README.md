@@ -1,4 +1,10 @@
-# Pizza-sales-Analysis2
+# Pizza-sales-Analysis
+
+
+## Table of Content:
++ Problem Statement
++ Analysis
++ Insight
 
 ## Problem Statement:
 The goal of this SQL project is to analyze pizza sales data to gain insights into customer behavior, popular
@@ -47,7 +53,7 @@ Q13: The top 3 most ordered pizza type based on revenue for each pizza category
 ![13](https://github.com/user-attachments/assets/19dad4b7-8b54-43a9-8642-fd065c5b5b0d)
 
 
-## Insight:
+## Insights:
 + Since large pizzas are the most ordered, consider offering deals and combos to encourage more purchases.
 + Considering the success of the Thai Chicken and Barbecue Chicken pizzas, explore adding new variations or seasonal specialties within the chicken category.
 + Leverage the popularity of large pizzas by suggesting upsells, such as extra toppings, side dishes, or beverages.
